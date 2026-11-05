@@ -54,4 +54,4 @@ Resin printing can draw small, smooth features, so it can produce lattices with 
 
 ## Further reading
 
-- How printed slides are made, from design to inspection: [printfootlab.com/guides/how-3d-printed-slides-are-made](https://printfootlab.com/guides/how-3d-printed-slides-are-made)
+- How printed slides are made, from design to inspection: [printfootlab.com/guides/how-3d-printed-slides-are-made](https://printfootlab.com/guides/how-3d-printed-slides-are-made?src=gh-01)

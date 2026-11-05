@@ -61,4 +61,4 @@ Uncured resin can irritate skin and cause allergic sensitisation with repeated c
 
 ## Further reading
 
-- How printed slides are cleaned, cured and inspected in production: [printfootlab.com/guides/how-3d-printed-slides-are-made](https://printfootlab.com/guides/how-3d-printed-slides-are-made)
+- How printed slides are cleaned, cured and inspected in production: [printfootlab.com/guides/how-3d-printed-slides-are-made](https://printfootlab.com/guides/how-3d-printed-slides-are-made?src=gh-04)

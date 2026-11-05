@@ -78,4 +78,4 @@ Lattices contain huge numbers of small features, which strains traditional CAD:
 
 ## Further reading
 
-- How cell size, strut thickness and cell shape change cushioning and airflow in footwear: [printfootlab.com/lattice-basics](https://printfootlab.com/lattice-basics)
+- How cell size, strut thickness and cell shape change cushioning and airflow in footwear: [printfootlab.com/lattice-basics](https://printfootlab.com/lattice-basics?src=gh-03)

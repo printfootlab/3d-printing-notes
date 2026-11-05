@@ -48,4 +48,4 @@
 
 ---
 
-For wearer-facing questions about printed footwear, see the FAQ at [printfootlab.com/faq](https://printfootlab.com/faq).
+For wearer-facing questions about printed footwear, see the FAQ at [printfootlab.com/faq](https://printfootlab.com/faq?src=gh-gl).

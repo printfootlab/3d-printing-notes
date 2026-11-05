@@ -64,4 +64,4 @@ A weight or pendulum is dropped onto the material and the energy that comes back
 
 ## Further reading
 
-- How printed lattice slides compare with EVA foam slides: [printfootlab.com/guides/3d-printed-vs-eva-foam-slides](https://printfootlab.com/guides/3d-printed-vs-eva-foam-slides)
+- How printed lattice slides compare with EVA foam slides: [printfootlab.com/guides/3d-printed-vs-eva-foam-slides](https://printfootlab.com/guides/3d-printed-vs-eva-foam-slides?src=gh-05)

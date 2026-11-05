@@ -58,4 +58,4 @@ Cured resins can yellow, stiffen or become more brittle with long exposure to UV
 
 ## Further reading
 
-- Materials used in printed footwear, and what happens at end of life: [printfootlab.com/materials](https://printfootlab.com/materials)
+- Materials used in printed footwear, and what happens at end of life: [printfootlab.com/materials](https://printfootlab.com/materials?src=gh-02)
